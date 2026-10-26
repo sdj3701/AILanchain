@@ -1,0 +1,27 @@
+# LangChain 핵심
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langgraph
+langgraph-checkpoint-sqlite
+
+# 벡터 DB
+chromadb
+
+# 백엔드 / 프론트엔드
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+httpx
+
+# 설정
+pydantic-settings
+python-dotenv
+
+# PDF 파싱 (3단계에서 설치: torch가 포함돼 용량이 큼)
+# docling
+# langchain-docling
